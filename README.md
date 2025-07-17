@@ -1,2 +1,2 @@
-#CrypText
+# CrypText
 A simple messaging app.
